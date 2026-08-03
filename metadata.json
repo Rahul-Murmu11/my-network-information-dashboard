@@ -1,0 +1,6 @@
+{
+  "name": "My Network Information Dashboard",
+  "description": "A cybersecurity-inspired network information dashboard displaying real-time IP details, geolocation, interactive map, speed metrics, and device diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
